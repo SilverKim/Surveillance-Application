@@ -1,0 +1,30 @@
+{
+    "camera0": {
+        "alpha_width": -1,
+        "focal_length": 850,
+        "offset_x": 0,
+        "offset_y": 0
+    },
+    "camera1": {
+        "alpha_width": 30,
+        "focal_length": 850,
+        "offset_x": -859,
+        "offset_y": -4
+    },
+    "camera2": {
+        "alpha_width": 30,
+        "focal_length": 850,
+        "offset_x": -691,
+        "offset_y": 20
+    },
+    "camera3": {
+        "alpha_width": 30,
+        "focal_length": 850,
+        "offset_x": -857,
+        "offset_y": -13
+    },
+    "global": {
+        "crop_bottom": 1,
+        "crop_top": 0
+    }
+}
